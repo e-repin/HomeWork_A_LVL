@@ -1,0 +1,5 @@
+E:\HomeWork2.1\CustomMethods\bin\Debug\CustomMethods.dll
+E:\HomeWork2.1\CustomMethods\bin\Debug\CustomMethods.pdb
+E:\HomeWork2.1\CustomMethods\obj\Debug\CustomMethods.csprojAssemblyReference.cache
+E:\HomeWork2.1\CustomMethods\obj\Debug\CustomMethods.dll
+E:\HomeWork2.1\CustomMethods\obj\Debug\CustomMethods.pdb

@@ -1,0 +1,5 @@
+E:\HomeWork5\HomeWork5\Geometry\bin\Debug\Geometry.dll
+E:\HomeWork5\HomeWork5\Geometry\bin\Debug\Geometry.pdb
+E:\HomeWork5\HomeWork5\Geometry\obj\Debug\Geometry.csprojAssemblyReference.cache
+E:\HomeWork5\HomeWork5\Geometry\obj\Debug\Geometry.dll
+E:\HomeWork5\HomeWork5\Geometry\obj\Debug\Geometry.pdb

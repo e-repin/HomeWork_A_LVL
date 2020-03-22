@@ -1,0 +1,9 @@
+E:\HomeWork3\HW0303\bin\Debug\HW0303.exe.config
+E:\HomeWork3\HW0303\bin\Debug\HW0303.exe
+E:\HomeWork3\HW0303\bin\Debug\HW0303.pdb
+E:\HomeWork3\HW0303\obj\Debug\HW0303.csprojAssemblyReference.cache
+E:\HomeWork3\HW0303\obj\Debug\HW0303.exe
+E:\HomeWork3\HW0303\obj\Debug\HW0303.pdb
+E:\HomeWork3\HW0303\bin\Debug\CustomLibrary.dll
+E:\HomeWork3\HW0303\bin\Debug\CustomLibrary.pdb
+E:\HomeWork3\HW0303\obj\Debug\HW0303.csproj.CopyComplete

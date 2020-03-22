@@ -1,0 +1,6 @@
+C:\Users\Repin\source\repos\HomeWork4\HW0803\bin\Debug\HW0803.exe.config
+C:\Users\Repin\source\repos\HomeWork4\HW0803\bin\Debug\HW0803.exe
+C:\Users\Repin\source\repos\HomeWork4\HW0803\bin\Debug\HW0803.pdb
+C:\Users\Repin\source\repos\HomeWork4\HW0803\obj\Debug\HW0803.csprojAssemblyReference.cache
+C:\Users\Repin\source\repos\HomeWork4\HW0803\obj\Debug\HW0803.exe
+C:\Users\Repin\source\repos\HomeWork4\HW0803\obj\Debug\HW0803.pdb

@@ -1,0 +1,5 @@
+E:\HomeWork3\CustomLibrary\bin\Debug\CustomLibrary.dll
+E:\HomeWork3\CustomLibrary\bin\Debug\CustomLibrary.pdb
+E:\HomeWork3\CustomLibrary\obj\Debug\CustomLibrary.csprojAssemblyReference.cache
+E:\HomeWork3\CustomLibrary\obj\Debug\CustomLibrary.dll
+E:\HomeWork3\CustomLibrary\obj\Debug\CustomLibrary.pdb

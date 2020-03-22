@@ -1,0 +1,9 @@
+E:\HomeWork2.1\HW2902\bin\Debug\HW2902.exe.config
+E:\HomeWork2.1\HW2902\bin\Debug\HW2902.exe
+E:\HomeWork2.1\HW2902\bin\Debug\HW2902.pdb
+E:\HomeWork2.1\HW2902\obj\Debug\HW2902.csprojAssemblyReference.cache
+E:\HomeWork2.1\HW2902\obj\Debug\HW2902.exe
+E:\HomeWork2.1\HW2902\obj\Debug\HW2902.pdb
+E:\HomeWork2.1\HW2902\bin\Debug\CustomMethods.dll
+E:\HomeWork2.1\HW2902\bin\Debug\CustomMethods.pdb
+E:\HomeWork2.1\HW2902\obj\Debug\HW2902.csproj.CopyComplete

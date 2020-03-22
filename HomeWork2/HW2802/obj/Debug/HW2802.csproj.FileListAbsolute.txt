@@ -1,0 +1,9 @@
+E:\HomeWork2\HW2802\bin\Debug\HW2802.exe.config
+E:\HomeWork2\HW2802\bin\Debug\HW2802.exe
+E:\HomeWork2\HW2802\bin\Debug\HW2802.pdb
+E:\HomeWork2\HW2802\obj\Debug\HW2802.csprojAssemblyReference.cache
+E:\HomeWork2\HW2802\obj\Debug\HW2802.exe
+E:\HomeWork2\HW2802\obj\Debug\HW2802.pdb
+E:\HomeWork2\HW2802\bin\Debug\CustomMetods.dll
+E:\HomeWork2\HW2802\bin\Debug\CustomMetods.pdb
+E:\HomeWork2\HW2802\obj\Debug\HW2802.csproj.CopyComplete

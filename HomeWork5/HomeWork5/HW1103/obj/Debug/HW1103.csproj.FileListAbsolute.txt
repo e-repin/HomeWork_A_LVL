@@ -1,0 +1,9 @@
+E:\HomeWork5\HomeWork5\HW1103\obj\Debug\HW1103.csprojAssemblyReference.cache
+E:\HomeWork5\HomeWork5\HW1103\bin\Debug\HW1103.exe.config
+E:\HomeWork5\HomeWork5\HW1103\bin\Debug\HW1103.exe
+E:\HomeWork5\HomeWork5\HW1103\bin\Debug\HW1103.pdb
+E:\HomeWork5\HomeWork5\HW1103\obj\Debug\HW1103.exe
+E:\HomeWork5\HomeWork5\HW1103\obj\Debug\HW1103.pdb
+E:\HomeWork5\HomeWork5\HW1103\bin\Debug\Geometry.dll
+E:\HomeWork5\HomeWork5\HW1103\bin\Debug\Geometry.pdb
+E:\HomeWork5\HomeWork5\HW1103\obj\Debug\HW1103.csproj.CopyComplete
